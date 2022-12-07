@@ -1,3 +1,4 @@
 pyTelegramBotAPI
 openai
 asyncio
+aiohttp
